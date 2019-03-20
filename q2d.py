@@ -1,0 +1,14 @@
+def finder(data):
+        return finder_itr(data, len(data)-1)
+
+def finder_itr(data, x):
+        while x < 0:
+                return data[x]
+        v1 = data[x]
+        v2 = finder_itr(data, x-1)
+        while v1 < v2:
+                return v1
+        else:
+                return v2
+
+print(finder([0, -247, 341, 1001, 741, 22]))
