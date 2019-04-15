@@ -16,7 +16,8 @@ insertionSort(alist)
 start_time = time.time()
 print(alist)
 end_time = time.time()
-time_elaspsed = end_time - start_time
+time_elapsed = end_time - start_time
+print(time_elapsed)
 
 =================================================================================================================================
 def insertion_sort(A):
