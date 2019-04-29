@@ -6,6 +6,8 @@ def mergeSort(alist):
 
    print("Splitting ",alist)
 
+   ## if the list is less than or equal to one, no more sorting required. If list is greater than 1 then slice  the left 
+   ## and right  halves of the list  
    if len(alist)>1:
        mid = len(alist)//2
        lefthalf = alist[:mid]
