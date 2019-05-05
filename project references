@@ -21,9 +21,26 @@ http://interactivepython.org/courselib/static/pythonds/SortSearch/TheMergeSort.h
 [13] Performance Comparison between merge and Quick Sort Algorithms in Data Structure. A, Irfan. Nawaz, H. Ameen,M. Rind, M.
      IJACSA, Vol. 9 No 11, 2018
 [14] Performance Comparison of Different Sorting Algorithms. Prajapati,P. Bhatt, N. Bhatt,N. 
-     International Journal of Latest Technology in Engineering, Management & Applied Science (IJLTEMAS) Volume VI, Issue VI, June 2017  
-
+     International Journal of Latest Technology in Engineering, Management & Applied Science (IJLTEMAS) Volume VI, Issue VI, June 2017 
+[15] Insertion Sort with its Enhancement. Chhatwani, P. IJCSMC, Vol 3, Issue 3, March 2014, pg. 801-806
+Fig 2- https://topoint.in/c-programs/insertion-sort-program-c/
 Insertsion Sort Code video- 6vClXM_iHsKr1fAPwduCuAk&q=insertion+sort+python&oq=insertsion+sort+&gs_l=psy-ab.1.1.0i13l10.982.12202..14389...0.0..0.114.714.16j1......0....1..gws-wiz.....0..35i39j0i131j0j0i10.KOTq2FvjNxs#kpvalbx=1
+[16] https://www.interviewcake.com/concept/java/counting-sort
+[17] Performance Analysis of Counting Sort Algorithm using various Parallel Programming Models . Babu, m. Khalid, M. Soni, S. Chowdari,S
+     (IJCSIT) International Journal of Computer Science and Information Technologies, Vol. 2 (5) , 2011, 2284-2287
+[18] https://en.wikipedia.org/wiki/Counting_sort
+Fig 3- https://www.researchgate.net/figure/Example-of-counting-sort_fig4_220686480
+[19] Quadratic and Linearithmic Comparison-based Sorting Algorithms. Deringer, J. 
+     https://johnderinger.wordpress.com/2012/12/28/quadratic-and-linearithmic-comparison-based-sorting-algorithms/
+[20] http://interactivepython.org/lpomz/courselib/static/pythonds/SortSearch/TheShellSort.html
+[21] https://www.revolvy.com/page/Pigeonhole-sort
+[22] https://www.geeksforgeeks.org/pigeonhole-sort/
+Fig 4- https://www.youtube.com/watch?v=nVQz0kZNC64
+[23] Cycle-Sort: A linear Sorting Method. Haddon, B.
+[24] https://en.wikipedia.org/wiki/Cycle_sort
+fig 5- https://www.javatpoint.com/cycle-sort
+[25] http://www.informit.com/articles/article.aspx?p=2180073&seqNum=5
+[26] https://pdfs.semanticscholar.org/d010/950f6b3c9521eb437334fa69c0b2b9353010.pdf
 
 Merge Sort- https://www.pythoncentral.io/merge-sort-implementation-guide/
 shell sort- https://www.geeksforgeeks.org/python-program-for-shellsort/
@@ -33,6 +50,7 @@ Counting Sort- https://www.w3resource.com/python-exercises/data-structures-and-a
 Shell Sort- https://interactivepython.org/runestone/static/pythonds/SortSearch/TheShellSort.html
 Bubble Sort- https://interactivepython.org/runestone/static/pythonds/SortSearch/TheBubbleSort.html
 Cycle Sort- https://www.geeksforgeeks.org/cycle-sort/
+Pigeonhole Sort- https://www.geeksforgeeks.org/pigeonhole-sort/
 
 Random number generator- https://stackoverflow.com/questions/43175324/python-random-number-file-writer
 
