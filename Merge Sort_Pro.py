@@ -9,8 +9,9 @@ start_time = time.time()
 def mergeSort(alist):
 
    print("Splitting ",alist)
-# split the unsorted list into two groups, until there is 1 element per group
-# perform mergeSort recursively on both halves
+# split the unsorted list into two groups, until there is 1 element per group perform mergeSort recursively on both halves
+# if the list is less than or equal to one, no more sorting required. If list is greater than 1 then slice  the left 
+# and right  halves of the list 
 
    if len(alist)>1:
        mid = len(alist)//2
