@@ -1,14 +1,22 @@
+# Ger Hanlon. April 2019. Generate random numbers and text file containing the numbers
+# Source Code- https://stackoverflow.com/questions/43175324/python-random-number-file-writer
+
+
 import random
 
 random_numbers = open('ran_numbers.txt', 'w')
 
+# execute program when ran in python
 def main():
 
     writeFunction(getRandom())
 
 def getRandom():
+    
+    # Enter the number of random integers to be generated
     qty_numbers = int(input('How many random numbers should be written to     the file? '))
 
+    # append randomlyu generated numbers 1 and 15000
     nums = []
     for count in range (qty_numbers):
         nums.append(random.randint(1,15000))
