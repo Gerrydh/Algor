@@ -16,7 +16,7 @@ def getRandom():
     # Enter the number of random integers to be generated
     qty_numbers = int(input('How many random numbers should be written to     the file? '))
 
-    # append randomlyu generated numbers 1 and 15000
+    # append randomly generated numbers 1 and 15000
     nums = []
     for count in range (qty_numbers):
         nums.append(random.randint(1,15000))
