@@ -10,6 +10,7 @@ def mergeSort(alist):
 
    print("Splitting ",alist)
 # split the unsorted list into two groups, until there is 1 element per group
+# perform mergeSort recursively on both halves
 
    if len(alist)>1:
        mid = len(alist)//2
@@ -29,6 +30,8 @@ def mergeSort(alist):
 
 
        while i < len(lefthalf) and j < len(righthalf):
+         
+         # Sort each element and place into the result
            if lefthalf[i] < righthalf[j]:
                alist[k]=lefthalf[i]
                i=i+1
